@@ -1,0 +1,68 @@
+body {
+	margin: 0;
+	font-family: 'Work Sans', sans-serif;
+}
+
+
+
+
+.navbar-spacey {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	height: 70px;
+	padding: 20px 15px;
+	background-color: white;
+}
+
+.logo-spacey {
+	width: 60px;
+}
+
+.nav-links {
+	display: flex;
+	justify-content: space-around;
+	width: 25%;
+	
+
+}
+.link {
+	
+	color: #262525;
+	text-decoration: none;
+	font-weight: 600;
+}
+
+
+	/* font-family: 'Mukta', sans-serif; 
+	   font-family: 'Monoton', cursive;
+*/
+
+
+.header {
+	background-image: url(https://s.rfi.fr/media/display/cfb250ae-61b2-11eb-9934-005056a964fe/w:1280/p:16x9/0765406cf668b03e8620cc0cc74e2cd7898a7e49.webp);
+	height: 200px;
+	background-position: center;
+	background-size: cover;
+	padding: 200px;
+	padding-left: 300px;
+	text-align: left;
+	color: white;
+	text-shadow: 1px 1px 3px rgba(0,0,0,0.2);
+
+}
+
+h1 {
+	
+	font-size: 72px;
+	margin: 10px 0;	
+
+}
+
+h2 {
+	
+	font-size: 28px;
+	margin: 6px 0;		
+
+
+}
